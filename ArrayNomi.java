@@ -52,7 +52,7 @@ public class ArrayNomi {
 
         System.out.println(nomi);
 
-
+        scannerS.close();
         
 
     }
